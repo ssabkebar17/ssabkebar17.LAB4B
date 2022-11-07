@@ -140,20 +140,22 @@ vertical-align: top;
  .quntity,.supplier,.theDate{
      display: inline-block; 
      width: 45pc;
+    
+
  }
  .bottom1{
      display:inline-block;
      width: 45pc;
-     /* border-style: solid;
-     border-color: blue; */
+     
  }
  #submit, #reset ,#cancelButton{
      width: 80px;
      display: inline-block;
      border-style: solid;
-     
+    
      cursor: pointer;
-     border-radius: 10px;margin-left: 10px;
+     border-radius: 10px;
+  
 
  }
  #submit{
